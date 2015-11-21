@@ -1,0 +1,6 @@
+{
+  "name": "react-dnd",
+  "version": "2.0.2",
+  "main": "lib/ReactDnD.min.js",
+  "ignore": []
+}
